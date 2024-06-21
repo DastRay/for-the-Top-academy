@@ -1,0 +1,20 @@
+﻿  kramer.c
+  main.c
+  matrix.c
+D:\Приложения\VisualStudio\repos\WinPractice\WinPractice\kramer.c(60,42): warning C4244: функция: преобразование "double" в "size_t", возможна потеря данных
+D:\Приложения\VisualStudio\repos\WinPractice\WinPractice\kramer.c(66,39): warning C4244: функция: преобразование "double" в "size_t", возможна потеря данных
+D:\Приложения\VisualStudio\repos\WinPractice\WinPractice\kramer.c(116,18): warning C4098: CramerMethod: функция типа "void", возвращающая значение
+D:\Приложения\VisualStudio\repos\WinPractice\WinPractice\kramer.c(122,16): warning C4098: CramerMethod: функция типа "void", возвращающая значение
+D:\Приложения\VisualStudio\repos\WinPractice\WinPractice\matrix.c(37,8): warning C4047: return: "double **" отличается по уровням косвенного обращения от "int"
+D:\Приложения\VisualStudio\repos\WinPractice\WinPractice\matrix.c(43,12): warning C4047: return: "double **" отличается по уровням косвенного обращения от "int"
+D:\Приложения\VisualStudio\repos\WinPractice\WinPractice\matrix.c(80,31): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+D:\Приложения\VisualStudio\repos\WinPractice\WinPractice\matrix.c(80,58): warning C4244: функция: преобразование "double" в "int", возможна потеря данных
+D:\Приложения\VisualStudio\repos\WinPractice\WinPractice\matrix.c(125,8): warning C4047: return: "double **" отличается по уровням косвенного обращения от "int"
+D:\Приложения\VisualStudio\repos\WinPractice\WinPractice\matrix.c(131,12): warning C4047: return: "double **" отличается по уровням косвенного обращения от "int"
+D:\Приложения\VisualStudio\repos\WinPractice\WinPractice\matrix.c(155,9): warning C4047: return: "double **" отличается по уровням косвенного обращения от "int"
+D:\Приложения\VisualStudio\repos\WinPractice\WinPractice\matrix.c(161,13): warning C4047: return: "double **" отличается по уровням косвенного обращения от "int"
+D:\Приложения\VisualStudio\repos\WinPractice\WinPractice\matrix.c(191,9): warning C4047: return: "double **" отличается по уровням косвенного обращения от "int"
+D:\Приложения\VisualStudio\repos\WinPractice\WinPractice\matrix.c(197,13): warning C4047: return: "double **" отличается по уровням косвенного обращения от "int"
+D:\Приложения\VisualStudio\repos\WinPractice\WinPractice\matrix.c(232,9): warning C4047: return: "double **" отличается по уровням косвенного обращения от "int"
+  Создание кода...
+  WinPractice.vcxproj -> D:\Приложения\VisualStudio\repos\WinPractice\x64\Debug\WinPractice.exe
